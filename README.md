@@ -1,4 +1,4 @@
-## hackathon project ColorMask
+## ChainLink Hackathon Project ColorMask
 
 ### Project Introduction
 #### Our project is called Color Mask. It is a generative art project that uses Bitcoin to store NFT files.
